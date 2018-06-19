@@ -9,5 +9,7 @@ We will see how can we extract face embeddings from images using dlib and visual
 Run code in the python notebook to generate embeddings.
 
 
-Run command below to visualize the tensboard. Replace the logdir path with your custom path
+#Run command below to visualize the tensboard. Replace the logdir path with your custom path
+
+
 tensorboard --logdir=/Users/anshu/meet-up/internship/recognition/face-embeddings/embeddings-logs/ --port=6006
