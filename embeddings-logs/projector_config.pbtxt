@@ -1,0 +1,8 @@
+embeddings {
+  tensor_name: "features_6:0"
+  sprite {
+    image_path: "/Users/anshu/meet-up/internship/recognition/face-embeddings/embeddings-logs/sprite_4_classes.png"
+    single_image_dim: 400
+    single_image_dim: 400
+  }
+}
